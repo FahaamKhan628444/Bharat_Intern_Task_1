@@ -1,0 +1,350 @@
+
+.logo{
+    position: absolute;
+    top: 15px;
+    width: 14%;
+    left: 100px;
+}
+.signin{
+    position: absolute;
+    top: 25px;
+    left: 1150px;
+    background-color: red;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: fit-content;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 240px;
+    margin-left: 400px;
+    color: white;
+}
+.main-subtitle{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 270px;
+    left: 530px;
+    color: white;
+}
+.main-title{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 245px;
+    left: 550px;
+    margin-left: 6.5%;
+    color: white;
+}
+.main-title{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 235px;
+    left: 340px;
+    color: white;
+}
+
+.email{
+    position: absolute;
+    top: 410px;
+    left: 350px;
+    background-color: white;
+
+}
+.email-title{
+    width: 159%;
+    border-radius: 4px;
+    padding: 17px 15px;
+    font-size: 1em;
+}
+.mail-button{
+    position: absolute;
+    top: 407px;
+    left: 760px;
+    padding: 16px 29px;
+    font-size: 1em;
+    background-color: red;
+    border-radius: 2px;
+    cursor: pointer;
+    color: white;
+    font-size:larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.line{
+    height: 5px;
+    background-color: grey;
+    margin-top: 15%;
+}
+*{
+    background-color: black;
+}
+.tv{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.xbox{
+    color: white;
+    margin-left: 15%;
+    font-size:x-large;
+}
+.lcd{
+    top: 579px;
+    position: absolute;
+    left: 625px;
+}
+.line1{
+    height: 5px;
+    background-color: grey;
+    margin-top: 20%;
+}
+.offline{
+    margin-left: 55%;
+    margin-top: 10%;
+
+}
+.shows{
+    color: white;
+    margin-left: 55%;
+    font-size:x-large;
+}
+.mobile{
+    position: absolute;
+    top: 1110px;
+    left: 10px;
+}
+.line2{
+    height: 5px;
+    background-color: grey;
+    margin-top: 25%;
+}
+.watch{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.phone{
+    color: white;
+    margin-left: 15%;
+    font-size:x-large;
+}
+.device{
+    position: absolute;
+    top: 1720px;
+    left: 625px;
+}
+.line3{
+    height: 5px;
+    background-color: grey;
+    margin-top: 25%;
+}
+.kids{
+    margin-left: 60%;
+    margin-top: 10%;
+}
+.create{
+    color: white;
+    margin-left: 60%;
+    font-size:x-large;
+}
+.hello{
+    position: absolute;
+    top: 2300px;
+    left: 80px;
+}
+.line4{
+    height: 5px;
+    background-color: grey;
+    margin-top: 20%;
+}
+
+.language{
+    color: white;
+    background: transparent;
+    border: none;
+    margin-left: 28px;
+}
+.dropdown{
+    color: rgb(6, 6, 6);
+    position: absolute;
+    left: 1010px;
+    top: 39px;
+    border-radius: 3px soloid white;
+}
+.material-symbols-outlined{
+    color: white;
+    position: absolute;
+}
+.dropdown{
+    border: 1px solid white;
+    padding: 0.4rem;
+    border-radius: 8px;
+    top: 23px;
+}
+.line5{
+height: 5px;
+background-color: grey;
+margin-top: 10%;
+}
+h4{
+    color: white;
+    margin-left: 15%;
+    margin-top: 8%;
+}
+.hover-link{
+    margin-left: 15%;
+    color: white;
+    margin-top: 5%;
+}
+.hover{
+    color: white;
+}
+.hover-link1{
+    position: absolute;
+    top: 3830px;
+    margin-left: 45%;
+    color: white;
+    margin-top: 2%;
+}
+.hover1{
+    color: white;
+}
+.hover-link2{
+    position: absolute;
+    top: 3820px;
+    margin-left: 77%;
+    color: white;
+    margin-top: 2%;
+}
+.hover2{
+    color: white;
+}
+.faq{
+    color: white;
+}
+.faq h2{
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 28%;
+
+}
+.accordion{
+    margin: 60px auto;
+    width: 100%;
+    max-width: 750px;
+}
+.accordion li{
+    list-style: none;
+    width: 100%;
+    padding: 5px;
+}
+.accordion li label{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 500;
+    background: #303030;
+    margin-bottom: 2px;
+    cursor: pointer;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+label::after{
+    content: '+';
+    font-size: 40px;
+    position: absolute;
+    right: 20px;
+}
+input[type="radio"]{
+    display: none;
+}
+.accordion .content{
+    background: #191818;
+    text-align: left;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+    font-size: 25px;
+}
+.accordion input[type="radio"]:checked+label+.content{
+    max-height: 600px;
+    padding: 30px 20px;
+}
+
+.footerContainer{
+    width: 50%;
+    padding: 70px 30px 20px;
+    position: absolute;
+    
+
+}
+.socialicons{
+    display: flex;
+    justify-content:space-between;
+    border-color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 570px;
+}
+.socialicons a{
+    text-decoration:none;
+    margin: 10px;
+    margin-left: 80%;
+}
+.socialicons a i{
+    font-size: 2em;
+    color: rgb(255, 254, 254);
+    /* opacity: 0.1; */
+}
+.socialicons a:hover{
+    background-color: rgb(249, 244, 244);
+    /* transition: 0.5s; */
+}
+.socialicons a:hover i{
+    color: white;
+    /* transition: 0.5s; */
+}
+.footerNav ul li a:hover{
+    opacity: 1;
+}
+.footerBottom
+{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+.footerBottom p{
+    color: white;
+    background-color: rgb(21, 20, 20);
+    position: absolute;
+    left: 1px;
+    width: 180%;
+    height: 20px;
+    border-radius: 3px solid grey;
+    margin-top: 5px;
+}
+
+.last-subtitle{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 280px;
+    left: 530px;
+    color: white;
+}
+.last-title{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 240px;
+    left: 550px;
+    margin-left: 6.5%;
+    color: white;
+}
+
+
